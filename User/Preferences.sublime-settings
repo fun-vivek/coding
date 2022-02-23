@@ -1,0 +1,10 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_face": "Fira Code",
+	"font_size": 16,
+	"theme": "Material Zenburn.sublime-theme",
+	"color_scheme": "Packages/Materialize/schemes/Material Zenburn.tmTheme",
+}
